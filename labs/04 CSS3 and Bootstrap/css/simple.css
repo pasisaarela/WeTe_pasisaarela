@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color:  #cce0ff;
+
+}
+
+h1, h2 {
+    color: blue;
+    font-weight: bold;
+}
+
+ul {
+    border-style: double;
+    text-indent: 20px;
+}
+
+li {
+    color: #666666;
+}
+
+p {
+    text-indent: 5px;
+}
+
+figcaption {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+p.copyright_notice {
+    font-size: 0.8em;
+}
+
+#special {
+    font-size: 0.8em;
+    color: yellowgreen;
+    font-style: italic;
+    border-left: 2px solid black;
+    margin-left: 40px;
+    padding-left: 10px;
+}
+
+#quote {
+    border-style: solid;
+    background-color: #8699A4;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 14px;
+    margin-left: 20px;
+}

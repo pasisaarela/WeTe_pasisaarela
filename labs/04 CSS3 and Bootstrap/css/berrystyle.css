@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.pic {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0b77b7;
+}
+
+#imgtxt {
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.blue {
+    background-color: #2B81AF;
+    font-size: 16px;
+    font-style: italic;
+
+}
+
+.cloud {
+    background-color: #b0b578;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.lingon {
+    background-color: #b5867a;
+    font-size: 16px;
+    font-style: italic;
+}
+
+.big {
+    font-size: 45px;
+}
+
+td {
+    padding-bottom: 5px;
+    width: 300px;
+    border-width:1px;
+    border-style: solid;
+    border-color: #1b1d26;
+    border-left: none;
+    border-right: none;
+
+}
+
+table {
+    text-align: center;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.middle {
+    border-top: none;
+    border-bottom: none;
+}
